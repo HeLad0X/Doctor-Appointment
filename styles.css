@@ -1,0 +1,71 @@
+/*Background work */
+body{
+  border:2px solid white;
+
+}
+.main-body{
+  position:relative;
+  background-color:#7fd0ee;
+}
+.tag-line{
+  position:relative;
+  background-color:#7fd0ee;
+  margin:0;
+  padding-top:20px;
+  font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+  font-size: 40px;
+  font-weight: 700;
+  color:#0c455a;
+  padding-left:40px;
+}
+
+.bckgrnd-img{
+  width: 98.6%;
+  position:fixed;
+
+}
+
+.fill-up{
+  position:relative;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-left:40px;
+  margin-top:20px;
+  width:40%;
+}
+
+
+/*Form entry*/
+.head{
+  font-size:30px;
+  margin-bottom:0;
+  padding-top:20px;
+}
+
+.horizontal{
+  width:75%;
+  margin-top:0;
+  height:30;
+  border:0;
+  height:30px;
+  border-top:solid 0.5px #999999;
+}
+
+.fill-details{
+  margin-left:30px;
+}
+
+.form-text{
+  font-weight:bold;
+  position:relative;
+  margin-left:30px;
+  opacity:1;
+}
+.red-star{
+  color:red;
+}
+.form-input{
+  opacity:1;
+  position:relative;
+  margin-left:130px;
+  width:50%;
+}
