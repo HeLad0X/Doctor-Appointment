@@ -65,6 +65,11 @@ body{
   opacity:1;
 }
 
+.select{
+  left:20px;
+  width:45%;
+}
+
 .red-star{
   color:red;
 }
