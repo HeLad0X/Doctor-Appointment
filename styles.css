@@ -1,28 +1,49 @@
-/*Background work */
-body{
-  border:2px solid white;
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #0c455a;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 98.6%; /* Full width */
+  height:4rem;
+}
+.logo{
+  height:100%;
+  margin-left:1rem;
+}
+.navbar a {
+  padding: 14px 16px;
+}
+
+/* Main content */
+
+
+/* Login page*/
+.login{
+
 
 }
-.main-body{
-  position:relative;
-  background-color:#7fd0ee;
+.login-bgi{
+
 }
-.tag-line{
-  position:relative;
-  background-color:#7fd0ee;
-  margin:0;
-  padding-top:20px;
-  font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
-  font-size: 40px;
-  font-weight: 700;
-  color:#0c455a;
-  padding-left:40px;
+.ask-login{
+  text-align:center;
+
 }
+.ask-login-form{
+  background-color: rgba(255, 255, 255,0.8);
+  position:relative;
+  left:59.5em;
+  top:20em;
+  height:100px;
+  width:30%;
+}
+/*Background work */
 
 .bckgrnd-img{
   width: 98.6%;
   position:fixed;
-
+  margin-top:2.5rem;
 }
 
 .fill-up{
