@@ -54,15 +54,21 @@ body{
   margin-left:30px;
 }
 
+.input{
+  margin:20px;
+}
+
 .form-text{
   font-weight:bold;
   position:relative;
   margin-left:30px;
   opacity:1;
 }
+
 .red-star{
   color:red;
 }
+
 .form-input{
   opacity:1;
   position:relative;
