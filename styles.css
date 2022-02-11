@@ -31,6 +31,7 @@ body{
   margin-left:40px;
   margin-top:20px;
   width:40%;
+  height:1000px;
 }
 
 
@@ -44,7 +45,6 @@ body{
 .horizontal{
   width:75%;
   margin-top:0;
-  height:30;
   border:0;
   height:30px;
   border-top:solid 0.5px #999999;
